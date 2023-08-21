@@ -1,0 +1,116 @@
+2023-08-11 11:39:32.478,MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Parameter '@PartGroupNameIGBT' must be defined.
+   위치: MySql.Data.MySqlClient.Statement.<SerializeParameterAsync>d__31.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<InternalBindParametersAsync>d__29.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<BindParametersAsync>d__27.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<ExecuteAsync>d__25.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.PreparableStatement.<ExecuteAsync>d__18.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__100.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.Mapping.IGBTinsert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\Mapping.cs:줄 97
+
+2023-08-11 11:41:15.429,MySql.Data.MySqlClient.MySqlException (0x80004005): Column 'part_id' cannot be null
+   위치: MySql.Data.MySqlClient.MySqlStream.<ReadPacketAsync>d__30.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.NativeDriver.<GetResultAsync>d__45.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Driver.<GetResultAsync>d__85.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Driver.<NextResultAsync>d__84.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__100.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.Mapping.IGBTinsert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\Mapping.cs:줄 96
+
+2023-08-11 11:44:04.150,MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Parameter '@SelectedIGBT' must be defined.
+   위치: MySql.Data.MySqlClient.Statement.<SerializeParameterAsync>d__31.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<InternalBindParametersAsync>d__29.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<BindParametersAsync>d__27.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<ExecuteAsync>d__25.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.PreparableStatement.<ExecuteAsync>d__18.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__100.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.Mapping.IGBTinsert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\Mapping.cs:줄 96
+

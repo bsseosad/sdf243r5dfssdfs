@@ -1,0 +1,151 @@
+2023-06-23 12:32:50.723,Microsoft.Data.SqlClient.SqlException (0x80131904): varchar 값 'H100'을(를) 데이터 형식 int(으)로 변환하지 못했습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.Read()
+   at Bar.INVCheck.InverterCategory_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\INVCheck.cs:line 104
+ClientConnectionId:53c5f12f-b4c3-4ccc-a4ca-066a7bda8267
+Error Number:245,State:1,Class:16
+2023-06-23 12:32:53.327,System.EventArgs
+2023-06-23 12:37:48.269,Microsoft.Data.SqlClient.SqlException (0x80131904): varchar 값 'H100'을(를) 데이터 형식 int(으)로 변환하지 못했습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.Read()
+   at Bar.INVCheck.InverterCategory_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\INVCheck.cs:line 104
+ClientConnectionId:175b5851-a6f7-4561-9621-47e109b1b573
+Error Number:245,State:1,Class:16
+2023-06-23 12:37:51.052,System.EventArgs
+2023-06-23 12:38:25.019,Microsoft.Data.SqlClient.SqlException (0x80131904): varchar 값 'H100'을(를) 데이터 형식 int(으)로 변환하지 못했습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.Read()
+   at Bar.INVCheck.InverterCategory_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\INVCheck.cs:line 104
+ClientConnectionId:2d59e093-30db-484c-85ab-d248314125c5
+Error Number:245,State:1,Class:16
+2023-06-23 12:38:27.066,System.EventArgs
+2023-06-23 12:39:05.924,System.EventArgs
+2023-06-23 12:40:29.926,Microsoft.Data.SqlClient.SqlException (0x80131904): varchar 값 'H100'을(를) 데이터 형식 int(으)로 변환하지 못했습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.Read()
+   at Bar.INVCheck.InverterCategory_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\INVCheck.cs:line 106
+ClientConnectionId:60ca11e2-e326-479e-a1df-a0183b066459
+Error Number:245,State:1,Class:16
+2023-06-23 12:40:30.529,System.EventArgs
+2023-06-23 12:42:22.858,Microsoft.Data.SqlClient.SqlException (0x80131904): varchar 값 'H100'을(를) 데이터 형식 int(으)로 변환하지 못했습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.Read()
+   at Bar.INVCheck.InverterCategory_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\INVCheck.cs:line 106
+ClientConnectionId:4da862a9-06e6-4f6b-a1d6-99389cfeae3b
+Error Number:245,State:1,Class:16
+2023-06-23 12:42:24.849,System.EventArgs
+2023-06-23 12:43:07.105,Microsoft.Data.SqlClient.SqlException (0x80131904): varchar 값 'H100'을(를) 데이터 형식 int(으)로 변환하지 못했습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.Read()
+   at Bar.INVCheck.InverterCategory_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\INVCheck.cs:line 106
+ClientConnectionId:6b1deb47-ff70-47c3-956a-f6a763cdc4a9
+Error Number:245,State:1,Class:16
+2023-06-23 12:43:08.462,System.EventArgs
+2023-06-23 12:46:11.767,Microsoft.Data.SqlClient.SqlException (0x80131904): varchar 값 'H100'을(를) 데이터 형식 int(으)로 변환하지 못했습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.Read()
+   at Bar.INVCheck.InverterCategory_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\INVCheck.cs:line 108
+ClientConnectionId:7781b873-276d-43b7-a898-119ebfebf1ea
+Error Number:245,State:1,Class:16
+2023-06-23 12:46:13.642,System.EventArgs
+2023-06-23 12:56:52.757,Microsoft.Data.SqlClient.SqlException (0x80131904): varchar 값 'H100'을(를) 데이터 형식 int(으)로 변환하지 못했습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.Read()
+   at Bar.INVCheck.InverterCategory_SelectedIndexChanged(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\INVCheck.cs:line 112
+ClientConnectionId:5a141604-2a2e-49bb-9b2f-29f3bea8f932
+Error Number:245,State:1,Class:16
+2023-06-23 12:56:54.358,System.EventArgs
+2023-06-23 12:57:48.750,System.EventArgs
+2023-06-23 12:58:06.021,System.EventArgs
+2023-06-23 13:07:14.934,Microsoft.Data.SqlClient.SqlException (0x80131904): 키워드 'from' 근처의 구문이 잘못되었습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.INVCheck.EnterButton_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\INVCheck.cs:line 75
+ClientConnectionId:9670b8eb-b770-4eff-a84e-51c6d06f9e5e
+Error Number:156,State:1,Class:15
+2023-06-23 13:07:16.118,Microsoft.Data.SqlClient.SqlException (0x80131904): 키워드 'from' 근처의 구문이 잘못되었습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.INVCheck.EnterButton_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\INVCheck.cs:line 75
+ClientConnectionId:9670b8eb-b770-4eff-a84e-51c6d06f9e5e
+Error Number:156,State:1,Class:15
+2023-06-23 13:07:35.534,System.EventArgs
+2023-06-23 13:07:45.544,Microsoft.Data.SqlClient.SqlException (0x80131904): 키워드 'from' 근처의 구문이 잘못되었습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.INVCheck.EnterButton_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\INVCheck.cs:line 75
+ClientConnectionId:8b932c75-4bb6-4128-8526-2fe0a6e6ba95
+Error Number:156,State:1,Class:15
+2023-06-23 13:07:46.892,System.EventArgs
+2023-06-23 13:08:24.052,System.EventArgs
+2023-06-23 17:32:19.031,System.EventArgs

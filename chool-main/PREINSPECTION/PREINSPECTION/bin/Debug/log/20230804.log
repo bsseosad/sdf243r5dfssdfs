@@ -1,0 +1,495 @@
+2023-08-04 00:12:38.067,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 81
+
+2023-08-04 00:12:43.324,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 81
+
+2023-08-04 00:12:44.451,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 81
+
+2023-08-04 00:12:44.774,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 81
+
+2023-08-04 00:12:45.064,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 81
+
+2023-08-04 00:12:45.372,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 81
+
+2023-08-04 00:12:45.679,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 81
+
+2023-08-04 00:15:58.836,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 81
+
+2023-08-04 00:16:03.313,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 81
+
+2023-08-04 00:16:19.492,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 81
+
+2023-08-04 10:11:58.588,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteScalarAsync>d__116.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 76
+
+2023-08-04 10:14:29.202,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteScalarAsync>d__116.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 76
+
+2023-08-04 10:19:45.963,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteScalarAsync>d__116.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 76
+
+2023-08-04 10:25:34.057,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteScalarAsync>d__116.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 76
+
+2023-08-04 10:25:34.996,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteScalarAsync>d__116.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 76
+
+2023-08-04 10:25:35.215,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteScalarAsync>d__116.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 76
+
+2023-08-04 10:25:35.354,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteScalarAsync>d__116.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 76
+
+2023-08-04 10:25:35.493,MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteScalarAsync>d__116.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 76
+
+2023-08-04 11:01:27.607,System.InvalidOperationException: The connection is already open.
+   위치: MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   위치: MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__91.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Open()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 62
+
+2023-08-04 11:10:37.749,MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Parameter '@barcodeFROM' must be defined.
+   위치: MySql.Data.MySqlClient.Statement.<SerializeParameterAsync>d__31.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<InternalBindParametersAsync>d__29.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<BindParametersAsync>d__27.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<ExecuteAsync>d__25.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.PreparableStatement.<ExecuteAsync>d__18.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__100.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 95
+
+2023-08-04 11:12:50.123,MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Parameter '@barcodeFROM' must be defined.
+   위치: MySql.Data.MySqlClient.Statement.<SerializeParameterAsync>d__31.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<InternalBindParametersAsync>d__29.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<BindParametersAsync>d__27.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<ExecuteAsync>d__25.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.PreparableStatement.<ExecuteAsync>d__18.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__100.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 95
+
+2023-08-04 11:14:50.074,MySql.Data.MySqlClient.MySqlException (0x80004005): Fatal error encountered during command execution. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Parameter '@barcodeFROM' must be defined.
+   위치: MySql.Data.MySqlClient.Statement.<SerializeParameterAsync>d__31.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<InternalBindParametersAsync>d__29.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<BindParametersAsync>d__27.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Statement.<ExecuteAsync>d__25.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.PreparableStatement.<ExecuteAsync>d__18.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__100.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 95
+
+2023-08-04 11:15:30.864,MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'name = '콘덴서'' at line 1
+   위치: MySql.Data.MySqlClient.MySqlStream.<ReadPacketAsync>d__30.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.NativeDriver.<GetResultAsync>d__45.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Driver.<GetResultAsync>d__85.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Driver.<NextResultAsync>d__84.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__100.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 95
+
+2023-08-04 11:16:39.296,MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '콘덴서'' at line 1
+   위치: MySql.Data.MySqlClient.MySqlStream.<ReadPacketAsync>d__30.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.NativeDriver.<GetResultAsync>d__45.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Driver.<GetResultAsync>d__85.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Driver.<NextResultAsync>d__84.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__100.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 95
+
+2023-08-04 11:16:39.540,MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= '콘덴서'' at line 1
+   위치: MySql.Data.MySqlClient.MySqlStream.<ReadPacketAsync>d__30.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.NativeDriver.<GetResultAsync>d__45.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Driver.<GetResultAsync>d__85.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Driver.<NextResultAsync>d__84.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlDataReader.<NextResultAsync>d__97.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.<ExecuteNonQueryAsync>d__100.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\addPart.cs:줄 95
+

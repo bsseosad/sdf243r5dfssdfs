@@ -1,0 +1,32 @@
+2023-06-07 14:30:56.020,Microsoft.Data.SqlClient.SqlException (0x80131904): 열 이름 'barcode'이(가) 유효하지 않습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.INVCheck.HookProc(Int32 nCode, IntPtr wParam, IntPtr lParam) in C:\Users\bsseo\Desktop\barcode\Bar\Bar\INVCheck.cs:line 60
+ClientConnectionId:1ecb2814-a2d4-4170-a156-11d61b7c1dec
+Error Number:207,State:1,Class:16
+2023-06-07 15:41:54.658,System.ArgumentOutOfRangeException: '-1'의 InvalidArgument=Value는 'start'에 사용할 수 없습니다. (Parameter 'start')
+Actual value was -1.
+   at System.Windows.Forms.TextBoxBase.Select(Int32 start, Int32 length)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\bsseo\Desktop\barcode\Bar\Bar\ComponentCheck.cs:line 112
+2023-06-07 15:43:07.528,System.ArgumentOutOfRangeException: '-1'의 InvalidArgument=Value는 'start'에 사용할 수 없습니다. (Parameter 'start')
+Actual value was -1.
+   at System.Windows.Forms.TextBoxBase.Select(Int32 start, Int32 length)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\bsseo\Desktop\barcode\Bar\Bar\ComponentCheck.cs:line 112
+2023-06-07 15:47:45.952,System.ArgumentOutOfRangeException: '-1'의 InvalidArgument=Value는 'start'에 사용할 수 없습니다. (Parameter 'start')
+Actual value was -1.
+   at System.Windows.Forms.TextBoxBase.Select(Int32 start, Int32 length)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\bsseo\Desktop\barcode\Bar\Bar\ComponentCheck.cs:line 113
+2023-06-07 15:49:50.537,System.ArgumentOutOfRangeException: '-1'의 InvalidArgument=Value는 'start'에 사용할 수 없습니다. (Parameter 'start')
+Actual value was -1.
+   at System.Windows.Forms.TextBoxBase.Select(Int32 start, Int32 length)
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\bsseo\Desktop\barcode\Bar\Bar\ComponentCheck.cs:line 113

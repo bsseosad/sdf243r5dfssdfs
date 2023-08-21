@@ -1,0 +1,49 @@
+2023-08-03 23:19:11.145,MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding. ---> System.TimeoutException: 작업 시간을 초과했습니다.
+   위치: MySql.Data.Common.StreamCreator.<GetTcpStreamAsync>d__8.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.Common.StreamCreator.<GetStreamAsync>d__7.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1.ConfiguredTaskAwaiter.GetResult()
+   위치: MySql.Data.MySqlClient.NativeDriver.<OpenAsync>d__38.MoveNext()
+   위치: MySql.Data.MySqlClient.NativeDriver.<OpenAsync>d__38.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Driver.<OpenAsync>d__76.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.Driver.<CreateAsync>d__74.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: MySql.Data.MySqlClient.Driver.<CreateAsync>d__74.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlPool.<CreateNewPooledConnectionAsync>d__31.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlPool.<GetPooledConnectionAsync>d__30.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlPool.<TryToGetDriverAsync>d__34.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlPool.<GetConnectionAsync>d__35.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   위치: MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__91.MoveNext()
+--- 예외가 throw된 이전 위치의 스택 추적 끝 ---
+   위치: System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   위치: System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 18
+

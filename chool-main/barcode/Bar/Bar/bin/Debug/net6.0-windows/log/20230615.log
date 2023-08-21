@@ -1,0 +1,43 @@
+2023-06-15 15:05:35.766,System.ArgumentOutOfRangeException: '-1'의 InvalidArgument=Value는 'start'에 사용할 수 없습니다. (Parameter 'start')
+Actual value was -1.
+   at System.Windows.Forms.TextBoxBase.Select(Int32 start, Int32 length)
+   at Bar.ComponentCheck.changecolor(RichTextBox richTextbox) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 239
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 74
+2023-06-15 15:05:38.249,System.EventArgs
+2023-06-15 15:05:56.371,System.ArgumentOutOfRangeException: '-1'의 InvalidArgument=Value는 'start'에 사용할 수 없습니다. (Parameter 'start')
+Actual value was -1.
+   at System.Windows.Forms.TextBoxBase.Select(Int32 start, Int32 length)
+   at Bar.ComponentCheck.changecolor(RichTextBox richTextbox) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 239
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 74
+2023-06-15 15:06:02.803,System.EventArgs
+2023-06-15 15:06:09.605,System.ArgumentOutOfRangeException: '-1'의 InvalidArgument=Value는 'start'에 사용할 수 없습니다. (Parameter 'start')
+Actual value was -1.
+   at System.Windows.Forms.TextBoxBase.Select(Int32 start, Int32 length)
+   at Bar.ComponentCheck.changecolor(RichTextBox richTextbox) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 239
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 74
+2023-06-15 15:06:12.829,System.EventArgs
+2023-06-15 15:07:11.349,System.ArgumentOutOfRangeException: '-1'의 InvalidArgument=Value는 'start'에 사용할 수 없습니다. (Parameter 'start')
+Actual value was -1.
+   at System.Windows.Forms.TextBoxBase.Select(Int32 start, Int32 length)
+   at Bar.ComponentCheck.changecolor(RichTextBox richTextbox) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 239
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 74
+2023-06-15 15:07:18.307,System.EventArgs
+2023-06-15 15:07:31.086,System.ArgumentOutOfRangeException: '-1'의 InvalidArgument=Value는 'start'에 사용할 수 없습니다. (Parameter 'start')
+Actual value was -1.
+   at System.Windows.Forms.TextBoxBase.Select(Int32 start, Int32 length)
+   at Bar.ComponentCheck.changecolor(RichTextBox richTextbox) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 240
+   at Bar.ComponentCheck.ComponentCheck_Load(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 65
+2023-06-15 15:07:32.750,System.EventArgs
+2023-06-15 15:18:54.079,System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Bar.ComponentCheck.HookProc(Int32 nCode, IntPtr wParam, IntPtr lParam) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 137
+2023-06-15 15:19:04.919,System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Bar.ComponentCheck.HookProc(Int32 nCode, IntPtr wParam, IntPtr lParam) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 137
+2023-06-15 15:19:05.417,System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Bar.ComponentCheck.HookProc(Int32 nCode, IntPtr wParam, IntPtr lParam) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 137
+2023-06-15 15:19:05.418,System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Bar.ComponentCheck.HookProc(Int32 nCode, IntPtr wParam, IntPtr lParam) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\ComponentCheck.cs:line 137
+2023-06-15 15:19:07.984,System.EventArgs

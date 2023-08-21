@@ -1,0 +1,95 @@
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\PREINSPECTION.exe.config
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\PREINSPECTION.exe
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\PREINSPECTION.pdb
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\Google.Protobuf.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\MySql.Data.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Buffers.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.IO.Pipelines.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Memory.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\ZstdSharp.dll
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\Google.Protobuf.pdb
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\Google.Protobuf.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\MySql.Data.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Buffers.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.IO.Pipelines.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Memory.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.csproj.AssemblyReference.cache
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.csproj.SuggestedBindingRedirects.cache
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.itemSelect.resources
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.Properties.Resources.resources
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.csproj.GenerateResource.cache
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.csproj.CoreCompileInputs.cache
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.csproj.CopyComplete
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.exe
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.pdb
+C:\Users\byeon\source\repos\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.addPart.resources
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\PREINSPECTION.exe.config
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\PREINSPECTION.exe
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\PREINSPECTION.pdb
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\Google.Protobuf.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\MySql.Data.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Buffers.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.IO.Pipelines.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Memory.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\ZstdSharp.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\Google.Protobuf.pdb
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\Google.Protobuf.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\MySql.Data.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Buffers.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.IO.Pipelines.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Memory.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\bin\Debug\Interop.CoreScanner.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.csproj.AssemblyReference.cache
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.csproj.SuggestedBindingRedirects.cache
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\Interop.CoreScanner.dll
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.csproj.ResolveComReference.cache
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.addPart.resources
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.ItemAdd.resources
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.itemSelect.resources
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.Mapping.resources
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.PartSearch.resources
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.Properties.Resources.resources
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.UpdatePart.resources
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.csproj.GenerateResource.cache
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.csproj.CoreCompileInputs.cache
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.csproj.CopyComplete
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.exe
+C:\Users\byeon\OneDrive\바탕 화면\PREINSPECTION\PREINSPECTION\obj\Debug\PREINSPECTION.pdb

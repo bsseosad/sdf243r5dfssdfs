@@ -1,0 +1,187 @@
+2023-06-13 13:02:07.309,System.EventArgs
+2023-06-13 13:03:23.728,System.EventArgs
+2023-06-13 16:25:52.488,System.EventArgs
+2023-06-13 16:27:27.309,System.EventArgs
+2023-06-13 16:28:23.763,System.EventArgs
+2023-06-13 16:28:42.840,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 50
+2023-06-13 16:28:47.254,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 50
+2023-06-13 16:28:47.636,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 50
+2023-06-13 16:28:47.763,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 50
+2023-06-13 16:28:48.065,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 50
+2023-06-13 16:28:50.226,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 50
+2023-06-13 16:28:52.555,System.EventArgs
+2023-06-13 16:37:45.884,System.EventArgs
+2023-06-13 16:38:04.808,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 16:38:08.650,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 16:38:09.257,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 16:38:09.400,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 16:38:09.526,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 16:38:11.120,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 16:38:11.409,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 16:38:11.541,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 16:38:13.388,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 16:38:15.234,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 16:38:17.267,System.EventArgs
+2023-06-13 16:39:44.582,System.EventArgs
+2023-06-13 16:40:20.207,System.EventArgs
+2023-06-13 16:40:34.145,System.EventArgs
+2023-06-13 16:41:33.568,System.EventArgs
+2023-06-13 16:42:17.219,System.EventArgs
+2023-06-13 16:42:41.870,System.EventArgs
+2023-06-13 16:52:28.084,System.EventArgs
+2023-06-13 16:54:28.443,Microsoft.Data.SqlClient.SqlException (0x80131904): 여러 부분으로 구성된 식별자 "dbo.Inverter.Inverter_barcode"은(는) 바인딩할 수 없습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 35
+ClientConnectionId:e51f403f-f237-4968-8dda-bf90d314d1ad
+Error Number:4104,State:1,Class:16
+2023-06-13 16:54:28.454,Microsoft.Data.SqlClient.SqlException (0x80131904): 여러 부분으로 구성된 식별자 "dbo.Inverter.Inverter_barcode"은(는) 바인딩할 수 없습니다.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader()
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 35
+ClientConnectionId:e51f403f-f237-4968-8dda-bf90d314d1ad
+Error Number:4104,State:1,Class:16
+2023-06-13 16:55:46.792,System.EventArgs
+2023-06-13 16:59:01.978,System.EventArgs
+2023-06-13 17:03:14.949,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 17:03:17.746,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 17:03:18.420,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 17:03:20.929,System.EventArgs
+2023-06-13 17:03:52.069,System.EventArgs
+2023-06-13 17:04:30.105,System.EventArgs
+2023-06-13 17:04:42.902,System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Microsoft.Data.SqlClient.SqlDataReader.CheckDataIsReady(Int32 columnIndex, Boolean allowPartiallyReadColumn, Boolean permitAsync, String methodName)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadColumn(Int32 i, Boolean setTimeout, Boolean allowPartiallyReadColumn, Boolean forStreaming)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValueInternal(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.GetValue(Int32 i)
+   at Microsoft.Data.SqlClient.SqlDataReader.get_Item(Int32 i)
+   at Bar.Add.Search_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\Add.cs:line 49
+2023-06-13 17:04:48.057,System.EventArgs
+2023-06-13 17:06:07.399,System.EventArgs
+2023-06-13 17:07:09.596,System.EventArgs
+2023-06-13 17:25:10.283,System.EventArgs
+2023-06-13 17:25:19.436,System.EventArgs
+2023-06-13 17:25:52.065,System.EventArgs
+2023-06-13 17:26:20.879,System.EventArgs
+2023-06-13 17:27:06.476,System.EventArgs
+2023-06-13 17:28:19.817,System.EventArgs
+2023-06-13 17:29:28.145,System.EventArgs
+2023-06-13 17:30:20.608,System.EventArgs

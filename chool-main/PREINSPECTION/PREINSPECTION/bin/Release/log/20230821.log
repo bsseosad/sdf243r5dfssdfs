@@ -1,0 +1,351 @@
+2023-08-21 09:36:30.811,System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: PREINSPECTION.addPart..ctor() 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\addPart.cs:줄 16
+   위치: PREINSPECTION.itemSelect.partAdd_Click(Object sender, EventArgs e) 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\itemSelect.cs:줄 85
+
+2023-08-21 09:36:33.971,System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: PREINSPECTION.addPart..ctor() 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\addPart.cs:줄 16
+   위치: PREINSPECTION.itemSelect.partAdd_Click(Object sender, EventArgs e) 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\itemSelect.cs:줄 85
+
+2023-08-21 09:36:34.378,System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: PREINSPECTION.addPart..ctor() 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\addPart.cs:줄 16
+   위치: PREINSPECTION.itemSelect.partAdd_Click(Object sender, EventArgs e) 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\itemSelect.cs:줄 85
+
+2023-08-21 09:36:34.519,System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: PREINSPECTION.addPart..ctor() 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\addPart.cs:줄 16
+   위치: PREINSPECTION.itemSelect.partAdd_Click(Object sender, EventArgs e) 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\itemSelect.cs:줄 85
+
+2023-08-21 09:36:34.660,System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: PREINSPECTION.addPart..ctor() 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\addPart.cs:줄 16
+   위치: PREINSPECTION.itemSelect.partAdd_Click(Object sender, EventArgs e) 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\itemSelect.cs:줄 85
+
+2023-08-21 09:36:34.985,System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: PREINSPECTION.addPart..ctor() 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\addPart.cs:줄 16
+   위치: PREINSPECTION.itemSelect.partAdd_Click(Object sender, EventArgs e) 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\itemSelect.cs:줄 85
+
+2023-08-21 09:38:46.878,System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: PREINSPECTION.addPart..ctor() 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\addPart.cs:줄 16
+   위치: PREINSPECTION.itemSelect.partAdd_Click(Object sender, EventArgs e) 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\itemSelect.cs:줄 85
+
+2023-08-21 14:58:53.572,System.Data.SqlClient.SqlException (0x80131904): 키워드 'ON' 근처의 구문이 잘못되었습니다.
+키워드 'WHEN' 근처의 구문이 잘못되었습니다.
+',' 근처의 구문이 잘못되었습니다.
+')' 근처의 구문이 잘못되었습니다.
+   위치: System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   위치: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   위치: System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.Mapping.IGBTinsert_Click(Object sender, EventArgs e) 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\Mapping.cs:줄 104
+ClientConnectionId:a1f81482-6c7a-4496-9754-624edb3361c3
+Error Number:156,State:1,Class:15
+
+2023-08-21 15:00:53.303,System.Data.SqlClient.SqlException (0x80131904): 키워드 'ON' 근처의 구문이 잘못되었습니다.
+키워드 'WHEN' 근처의 구문이 잘못되었습니다.
+',' 근처의 구문이 잘못되었습니다.
+')' 근처의 구문이 잘못되었습니다.
+   위치: System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   위치: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   위치: System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.Mapping.IGBTinsert_Click(Object sender, EventArgs e) 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\Mapping.cs:줄 104
+ClientConnectionId:cdfc9935-6e53-47ba-a94b-4d3f7529706c
+Error Number:156,State:1,Class:15
+
+2023-08-21 16:39:25.906,System.Data.SqlClient.SqlException (0x80131904): '@operatorName' 근처의 구문이 잘못되었습니다.
+   위치: System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   위치: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   위치: System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.DBINSERT.button1_Click(Object sender, EventArgs e) 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\DBINSERT.cs:줄 114
+ClientConnectionId:38ef859d-1190-4f81-b4e8-8e5e35e2ce12
+Error Number:102,State:1,Class:15
+
+2023-08-21 16:40:35.547,System.Data.SqlClient.SqlException (0x80131904): '@operatorName' 근처의 구문이 잘못되었습니다.
+   위치: System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   위치: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   위치: System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.DBINSERT.button1_Click(Object sender, EventArgs e) 파일 C:\Users\bsseo\Desktop\sdfmklm-main\PREINSPECTION\PREINSPECTION\DBINSERT.cs:줄 114
+ClientConnectionId:921c78df-3348-43cf-b26a-d4f42962df3f
+Error Number:102,State:1,Class:15
+
+2023-08-21 23:11:09.293,System.Data.SqlClient.SqlException (0x80131904): 사용자 'sa1'이(가) 로그인하지 못했습니다.
+   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 19
+ClientConnectionId:8c9e12b5-8208-45f9-bf00-7334072caa46
+Error Number:18456,State:1,Class:14
+
+2023-08-21 23:11:18.433,System.Data.SqlClient.SqlException (0x80131904): 사용자 'sa1'이(가) 로그인하지 못했습니다.
+   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 19
+ClientConnectionId:128f00ea-c5b5-4264-9d2c-b96d35a760a5
+Error Number:18456,State:1,Class:14
+
+2023-08-21 23:11:22.709,System.Data.SqlClient.SqlException (0x80131904): 사용자 'sa1'이(가) 로그인하지 못했습니다.
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 19
+ClientConnectionId:128f00ea-c5b5-4264-9d2c-b96d35a760a5
+Error Number:18456,State:1,Class:14
+
+2023-08-21 23:11:22.709,System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: PREINSPECTION.ItemAdd..ctor() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ItemAdd.cs:줄 29
+   위치: PREINSPECTION.itemSelect.itemAdd_Click(Object sender, EventArgs e) 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\itemSelect.cs:줄 221
+
+2023-08-21 23:11:23.633,System.Data.SqlClient.SqlException (0x80131904): 사용자 'sa1'이(가) 로그인하지 못했습니다.
+   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 19
+ClientConnectionId:d065bed3-cf74-4b0a-ba7b-d56e682c85d6
+Error Number:18456,State:1,Class:14
+
+2023-08-21 23:11:23.634,System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: PREINSPECTION.ItemAdd..ctor() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ItemAdd.cs:줄 29
+   위치: PREINSPECTION.itemSelect.itemAdd_Click(Object sender, EventArgs e) 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\itemSelect.cs:줄 221
+
+2023-08-21 23:12:16.252,System.Data.SqlClient.SqlException (0x80131904): 사용자 'sa1'이(가) 로그인하지 못했습니다.
+   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 19
+ClientConnectionId:fc8199f8-5654-4469-acd6-b04bf3db6116
+Error Number:18456,State:1,Class:14
+
+2023-08-21 23:12:21.416,System.Data.SqlClient.SqlException (0x80131904): 사용자 'sa1'이(가) 로그인하지 못했습니다.
+   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 19
+ClientConnectionId:46bbe0c5-ddda-4001-907b-8ef8722b4ff1
+Error Number:18456,State:1,Class:14
+
+2023-08-21 23:12:21.417,System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: PREINSPECTION.ItemAdd..ctor() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ItemAdd.cs:줄 29
+   위치: PREINSPECTION.itemSelect.itemAdd_Click(Object sender, EventArgs e) 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\itemSelect.cs:줄 221
+
+2023-08-21 23:13:10.940,System.Data.SqlClient.SqlException (0x80131904): 사용자 'sa1'이(가) 로그인하지 못했습니다.
+   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 19
+ClientConnectionId:a5167c1d-be6e-4953-8d8c-e790cd537721
+Error Number:18456,State:1,Class:14
+
+2023-08-21 23:14:24.272,System.Data.SqlClient.SqlException (0x80131904): 사용자 'sa1'이(가) 로그인하지 못했습니다.
+   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 19
+ClientConnectionId:8a38643f-ca5b-409e-892d-382c8869759f
+Error Number:18456,State:1,Class:14
+
+2023-08-21 23:16:18.257,System.Data.SqlClient.SqlException (0x80131904): 사용자 'sa1'이(가) 로그인하지 못했습니다.
+   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 19
+ClientConnectionId:fc584d33-06ee-4bea-94e1-11b8a6e6a50b
+Error Number:18456,State:1,Class:14
+
+2023-08-21 23:18:02.767,System.Data.SqlClient.SqlException (0x80131904): 사용자 'sa1'이(가) 로그인하지 못했습니다.
+   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 19
+ClientConnectionId:6c1e7cc4-bffc-41a7-8837-2a2521704ca5
+Error Number:18456,State:1,Class:14
+
+2023-08-21 23:21:19.631,System.Data.SqlClient.SqlException (0x80131904): 사용자 'sbs'이(가) 로그인하지 못했습니다.
+   위치: System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   위치: System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   위치: System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   위치: System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   위치: System.Data.SqlClient.SqlConnection.Open()
+   위치: PREINSPECTION.ConnectDB.connectDB() 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ConnectDB.cs:줄 19
+ClientConnectionId:e0ad4a9f-c745-43ee-b56a-eb9824ba293e
+Error Number:18456,State:1,Class:14
+
+2023-08-21 23:27:22.134,System.Data.SqlClient.SqlException (0x80131904): 열 이름 'group_id'이(가) 유효하지 않습니다.
+   위치: System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   위치: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   위치: System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\addPart.cs:줄 157
+ClientConnectionId:eda0435e-26d9-41d0-9c2a-e248714815f5
+Error Number:207,State:1,Class:16
+
+2023-08-21 23:27:23.371,System.Data.SqlClient.SqlException (0x80131904): 열 이름 'group_id'이(가) 유효하지 않습니다.
+   위치: System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   위치: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   위치: System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.addPart.insert_Click(Object sender, EventArgs e) 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\addPart.cs:줄 157
+ClientConnectionId:eda0435e-26d9-41d0-9c2a-e248714815f5
+Error Number:207,State:1,Class:16
+
+2023-08-21 23:32:29.429,System.Data.SqlClient.SqlException (0x80131904): 열 이름 'group_id'이(가) 유효하지 않습니다.
+   위치: System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   위치: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   위치: System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.ItemAdd.insertButton_Click(Object sender, EventArgs e) 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ItemAdd.cs:줄 151
+ClientConnectionId:3a43a5ea-3273-4f66-9061-8f3aed1a33d8
+Error Number:207,State:1,Class:16
+
+2023-08-21 23:34:18.610,System.Data.SqlClient.SqlException (0x80131904): 열 이름 'group_id'이(가) 유효하지 않습니다.
+   위치: System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   위치: System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   위치: System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   위치: System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   위치: System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   위치: System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   위치: PREINSPECTION.ItemAdd.insertButton_Click(Object sender, EventArgs e) 파일 C:\Users\sbs\Downloads\chool-main\PREINSPECTION\PREINSPECTION\ItemAdd.cs:줄 151
+ClientConnectionId:1bcac111-e016-4cc0-a982-45a3a020d5e0
+Error Number:207,State:1,Class:16
+

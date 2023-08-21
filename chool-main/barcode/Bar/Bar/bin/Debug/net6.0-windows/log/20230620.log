@@ -1,0 +1,53 @@
+2023-06-20 15:51:57.186,System.EventArgs
+2023-06-20 16:17:05.356,System.EventArgs
+2023-06-20 16:18:37.271,System.EventArgs
+2023-06-20 16:20:59.906,System.EventArgs
+2023-06-20 16:22:18.035,System.EventArgs
+2023-06-20 16:22:55.118,System.EventArgs
+2023-06-20 16:23:16.637,System.EventArgs
+2023-06-20 16:25:19.655,System.EventArgs
+2023-06-20 16:25:38.196,System.EventArgs
+2023-06-20 16:25:49.357,System.EventArgs
+2023-06-20 16:27:58.403,System.EventArgs
+2023-06-20 16:28:49.242,System.EventArgs
+2023-06-20 16:29:14.786,System.EventArgs
+2023-06-20 16:50:51.122,System.EventArgs
+2023-06-20 16:51:53.961,System.EventArgs
+2023-06-20 16:53:06.853,System.EventArgs
+2023-06-20 16:55:01.191,System.EventArgs
+2023-06-20 16:57:25.217,System.EventArgs
+2023-06-20 16:58:21.039,System.EventArgs
+2023-06-20 17:08:27.651,System.IO.IOException: The process cannot access the file 'C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\전진검사 양식.xlsx' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OfficeOpenXml.ExcelPackage.ConstructNewFile(String password)
+   at OfficeOpenXml.ExcelPackage..ctor(FileInfo newFile, String tempFolder)
+   at Bar.VisualCheckcs.button1_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\VisualCheckcs.cs:line 46
+2023-06-20 17:08:27.714,System.EventArgs
+2023-06-20 17:08:53.814,System.IO.IOException: The process cannot access the file 'C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\전진검사 양식.xlsx' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OfficeOpenXml.ExcelPackage.ConstructNewFile(String password)
+   at OfficeOpenXml.ExcelPackage..ctor(FileInfo newFile, String tempFolder)
+   at Bar.VisualCheckcs.button1_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\VisualCheckcs.cs:line 46
+2023-06-20 17:08:53.863,System.EventArgs
+2023-06-20 17:11:34.775,System.IO.IOException: The process cannot access the file 'C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\전진검사 양식.xlsx' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OfficeOpenXml.ExcelPackage.ConstructNewFile(String password)
+   at OfficeOpenXml.ExcelPackage..ctor(FileInfo newFile, String tempFolder)
+   at Bar.VisualCheckcs.button1_Click(Object sender, EventArgs e) in C:\Users\bsseo\Documents\GitHub\chool\barcode\Bar\Bar\VisualCheckcs.cs:line 44
+2023-06-20 17:11:34.825,System.EventArgs
+2023-06-20 17:17:01.136,System.EventArgs
